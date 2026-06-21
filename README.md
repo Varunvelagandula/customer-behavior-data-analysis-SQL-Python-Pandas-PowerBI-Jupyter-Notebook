@@ -3,15 +3,6 @@
 
 This project represents a complete, industry-standard, end-to-end data analytics workflow designed to replicate the responsibilities of professional data analysts in modern business environments. The project covers every stage of the analytics lifecycle, including data cleaning, exploratory analysis, database management, business intelligence reporting, and actionable insight generation.
 
-## 🎯 Who Is This Project For?
-
-* 📊 Data Analyst aspirants looking to build a strong portfolio project for resumes, interviews, and LinkedIn.
-* 📚 Students and professionals learning SQL, Python, and Power BI.
-* 💼 Candidates preparing for Data Analyst, Business Analyst, Product Analyst, or Data Science roles.
-* 🚀 Anyone interested in transforming raw customer data into meaningful business insights.
-
----
-
 ## 📌 Project Overview
 
 The objective of this project is to analyze customer behavior and purchasing patterns to uncover actionable business insights that can improve customer engagement, retention, and overall business performance.
