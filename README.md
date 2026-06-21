@@ -1,5 +1,5 @@
 # customer-behavior-data-analysis-SQL-Python-PowerBI
-# 👨🏻‍💻 Customer Behavior Data Analysis | SQL • Python • Power BI
+# 👨🏻‍💻 Customer Behavior Data Analysis | SQL • Python • Power BI • Pandas • Jupyter Notebook
 
 This project represents a complete, industry-standard, end-to-end data analytics workflow designed to replicate the responsibilities of professional data analysts in modern business environments. The project covers every stage of the analytics lifecycle, including data cleaning, exploratory analysis, database management, business intelligence reporting, and actionable insight generation.
 
